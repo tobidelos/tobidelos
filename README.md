@@ -4,7 +4,7 @@
 <hr>
 💡 &nbsp;I like to explore new technologies and develop software solutions. <br>
 🎓 &nbsp;I'm currently studying Systems engineering at the Universidad Tecnológica Nacional (UTN).<br>
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
+🌱 &nbsp;I´m on my way to learn more about cybersecurity, system design and cloud architecture.<br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
 ✉️ &nbsp;You can shoot me an email at ... I'll try to respond as soon as I can.<br>
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions<br>
