@@ -15,6 +15,8 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Naciona
 * **📧 Email:** Contáctame en **tobiasdelosreyes12@gmail.com** Te responderé lo antes posible.
 * **📄 Mi trayectoria:** ¿Quieres ver mi experiencia? Dale un vistazo a mi [Résumé](http://bit.ly/45nsOuG).
 
+---
+
 <h4>Languages</h4>
   <span>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
