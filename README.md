@@ -7,7 +7,7 @@
 🌱 &nbsp;I´m on my way to learn more about cybersecurity, system design and cloud architecture.<br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
 ✉️ &nbsp;You can shoot me an email at ... I'll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="http://bit.ly/34nDU6b">Resumé</a> for more details about me.<br>
+📄 &nbsp;Please have a look at my <a href="http://bit.ly/34nDU6b">Résumé</a> for more details about me.<br>
 
 
 ## My skills include
