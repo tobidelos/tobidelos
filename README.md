@@ -1,15 +1,19 @@
 <h1 align="center"><b>Hi , I'm Tobias Iván </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3>📖 &nbsp;About Me</h3>
-<hr>
-💡 &nbsp;I like to explore new technologies and develop software solutions. <br>
-🎓 &nbsp;I'm currently studying Systems engineering at the Universidad Tecnológica Nacional (UTN).<br>
-🌱 &nbsp;I´m on my way to learn more about cybersecurity, system design and cloud architecture.<br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at ... I'll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="http://bit.ly/34nDU6b">Résumé</a> for more details about me.<br>
+### 🚀 Systems Engineering Student | Aspiring Cloud & Cybersecurity Specialist
 
+Hola 👋 Soy un apasionado por la **innovación y el desarrollo de software**. Actualmente, estoy cursando Ingeniería en Sistemas en la UTN, buscando aplicar la teoría en soluciones prácticas y eficientes.
 
+* **🌱 Enfoque actual:** Profundizando mis conocimientos en **Arquitectura Cloud**, **Diseño de Sistemas** y **Ciberseguridad**.
+* **🛠️ Me gusta:** Explorar nuevas tecnologías y convertirlas en soluciones de software sólidas.
+
+---
+
+### 🤝 Conectemos
+
+* **💬 Abierto a:** Consultoría *pro bono*, voluntariado y discusiones técnicas interesantes. ¡No dudes en contactarme!
+* **📄 CV:** [Link a tu Résumé]
+* **✉️ Contacto:** Puedes enviarme un email a ...
 ## My skills include
 
 <h4>Languages</h4>
