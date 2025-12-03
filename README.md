@@ -1,20 +1,19 @@
 <h1 align="center"><b>Hi , I'm Tobias Iván </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### 🚀 Systems Engineering Student | Aspiring Cloud & Cybersecurity Specialist
+### 💡 Buscando el siguiente desafío en el Desarrollo de Software
 
-Hola 👋 Soy un apasionado por la **innovación y el desarrollo de software**. Actualmente, estoy cursando Ingeniería en Sistemas en la UTN, buscando aplicar la teoría en soluciones prácticas y eficientes.
+Soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN), con una pasión por convertir ideas complejas en código limpio y soluciones robustas.
 
-* **🌱 Enfoque actual:** Profundizando mis conocimientos en **Arquitectura Cloud**, **Diseño de Sistemas** y **Ciberseguridad**.
-* **🛠️ Me gusta:** Explorar nuevas tecnologías y convertirlas en soluciones de software sólidas.
+* **✨ Mi motor:** Explorar y dominar nuevas tecnologías para desarrollar soluciones de software eficientes.
+* **🎯 En el radar:** Actualmente inmerso en el aprendizaje de **Ciberseguridad**, **Diseño de Sistemas a Gran Escala** y **Arquitectura Cloud** (¡los pilares del futuro!).
 
 ---
 
-### 🤝 Conectemos
+### 🌐 Hablemos de Tecnología
 
-* **💬 Abierto a:** Consultoría *pro bono*, voluntariado y discusiones técnicas interesantes. ¡No dudes en contactarme!
-* **📄 CV:** [Link a tu Résumé]
-* **✉️ Contacto:** Puedes enviarme un email a ...
-## My skills include
+* **💬 Conversación:** Si tienes un proyecto pro bono, una oportunidad de voluntariado o simplemente quieres debatir sobre tecnología, ¡escríbeme!
+* **📧 Email:** Contáctame en **tobiasdelosreyes12@gmail.com** Te responderé lo antes posible.
+* **📄 Mi trayectoria:** ¿Quieres ver mi experiencia? Dale un vistazo a mi [Résumé](http://bit.ly/45nsOuG).
 
 <h4>Languages</h4>
   <span>
