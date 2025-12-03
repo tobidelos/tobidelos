@@ -5,7 +5,7 @@
 Soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN), con una pasión por convertir ideas complejas en código limpio y soluciones robustas.
 
 * **✨ Mi motor:** Explorar y dominar nuevas tecnologías para desarrollar soluciones de software eficientes.
-* **🎯 En el radar:** Actualmente inmerso en el aprendizaje de **Ciberseguridad**, **Diseño de Sistemas a Gran Escala** y **Arquitectura Cloud**  (¡los pilares del futuro!).
+* **🎯 En el radar:** Actualmente inmerso en el aprendizaje de **Bases de datos**, **Diseño de Sistemas a Gran Escala** y **Desarrollo Web**  (¡los pilares del futuro!).
 
 ---
 
