@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Naciona
 
 ### 🌐 Hablemos de Tecnología
 
-* **💬 Conversación:** Si tienes un proyecto pro bono, una oportunidad de voluntariado o simplemente quieres debatir sobre tecnología, ¡escríbeme!
+* **💬 Conversación:** Si tienes un proyecto pro bono o una oportunidad de voluntariado, ¡escríbeme!
 * **📧 Email:** Contáctame en **tobiasdelosreyes12@gmail.com** Te responderé lo antes posible.
 * **📄 Mi trayectoria:** ¿Quieres ver mi experiencia? Dale un vistazo a mi [Résumé](http://bit.ly/45nsOuG).
 
