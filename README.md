@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Tobias Iván </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , soy Tobias Iván </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 💡 Buscando el siguiente desafío en el Desarrollo de Software
 
