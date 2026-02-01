@@ -1,56 +1,61 @@
-<h1 align="center">Hola , soy Tobias Iván👋</h1>
+<h1 align="center"><b>Hola , soy Tobias Iván </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-###
+### 💡 Buscando el siguiente desafío en el Desarrollo de Software
 
-<br clear="both">
+Soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN), con una pasión por convertir ideas complejas en código limpio y soluciones robustas.
 
-<p align="left">💡 Buscando el siguiente desafío en el Desarrollo de Software<br><br>Soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN), con una pasión por convertir ideas complejas en código limpio y soluciones robustas.<br><br>    ✨ Mi motor: Explorar y dominar nuevas tecnologías para desarrollar soluciones de software eficientes.<br>    🎯 En el radar: Actualmente inmerso en el aprendizaje de Bases de datos, Diseño de Sistemas y Desarrollo Web.<br><br>🌐 Hablemos de Tecnología<br><br>    💬 Conversación: Si tienes un proyecto pro bono o una oportunidad de voluntariado/pasantía, ¡escríbeme!<br>    📧 Email: Contáctame en tobiasdelosreyes12@gmail.com Te responderé lo antes posible.</p>
+* **✨ Mi motor:** Explorar y dominar nuevas tecnologías para desarrollar soluciones de software eficientes.
+* **🎯 En el radar:** Actualmente inmerso en el aprendizaje de **Bases de datos**, **Diseño de Sistemas** y **Desarrollo Web**.
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
-</div>
+### 🌐 Hablemos de Tecnología
 
-###
+* **💬 Conversación:** Si tienes un proyecto pro bono o una oportunidad de voluntariado/pasantía, ¡escríbeme!
+* **📧 Email:** Contáctame en **tobiasdelosreyes12@gmail.com** Te responderé lo antes posible.
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/tobiasivan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<h4>Languages</h4>
+  <span>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </span>
+
+  <h4>Frameworks</h4>
+   <span>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </span>
+
+   <h4>Tools</h4>
+   <span>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  </span>
+
+  ## Contact
+
+  <a href="https://www.instagram.com/ttobidelos/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://instagram.com/ttobidelos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  
+  <a href="https://www.linkedin.com/in/tobias-ivan-d-55766421b/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="ttobidelos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="tobiasdelosreyes12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+  
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttobidelos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttobidelos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ttobidelos/ttobidelos/output/snake.svg" alt="Snake animation" />
-
-###
+ 
  
